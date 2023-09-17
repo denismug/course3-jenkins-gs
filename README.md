@@ -2,7 +2,7 @@
 
 ## Sample Repo
 
-- `spring-petclinic` fork [g0t4/course3-jenkins-gs-spring-petclinic](//github.com/g0t4/course3-jenkins-gs-spring-petclinic)
+- `spring-petclinic` fork [g0t4/course3-jenkins-gs-spring-petclinic](https://github.com/g0t4/course3-jenkins-gs-spring-petclinic)
   - [`main`](https://github.com/g0t4/course3-jenkins-gs-spring-petclinic/tree/main) and [`start-of-course`](https://github.com/g0t4/course3-jenkins-gs-spring-petclinic/tree/start-of-course) braches mark the start of the course
   - [`end-of-course`](https://github.com/g0t4/course3-jenkins-gs-spring-petclinic/tree/end-of-course) branch marks the last commit from the course
 
